@@ -31,6 +31,12 @@ The last step is to run the script faces.py.
 
 This will say "Hello [name]" if you are a member of the system, or "New member" if you are not recognized.
 
+## Improvements
+
+To get the best results for facial detection, it is better to have more pictures. 
+
+Detection results may also be improved by including a facial side profile cascade as part of the detection process, and by trying another sophisticated learning library.
+
 ## Acknowledgments and Helpful Links
 
 https://docs.opencv.org/4.3.0/db/d28/tutorial_cascade_classifier.html
